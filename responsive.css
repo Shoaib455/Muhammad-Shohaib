@@ -1,0 +1,99 @@
+@media (max-width: 479px) and (min-width: 320px) { 
+
+    .col-md-7.lists.mt-3{
+        display: none!important;
+    }
+
+    .col-md-12.header {
+        padding: 0px;
+    }
+    .col-md-3.mt-1.d-flex.justify-content-around.set {
+        padding: 0px;
+    }
+    button.btn.btn-outline-warning.btn-one.mt-2 {
+        display: none;
+    }
+    h1.h {
+        text-align: center;
+        font-size: 20px;
+          width: 300px;  
+    }
+    form input {
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+        font-size: 15px!important;
+        /* padding: 2%; */
+        text-align: center;
+        border-color: black;
+        width: 140px!important;
+    }
+    .after-nav p {
+        padding-top: 5%!important;
+        font-size: 16px!important;
+        color: white!important;
+        filter: opacity(80%)!important;
+        padding-bottom: 10px!important;
+        width: 350px!important;
+        text-align: center;
+    }
+    /* .row.section-4.circular-progrees-bar {
+        width: 100%!important;
+    } */
+    .image {
+        display: block;
+        width: 600px;
+        height: 0px!important;
+    }
+    /* svg.circle-chart {
+        width: 50px!important;
+        margin-left: 15px!important;
+    } */
+    .paragraph p {
+        text-align: center;
+        color: white;
+        /* padding-top: 5%; */
+        font-size: 11px;
+        width: 350px;
+        margin-left: 40px;
+    }
+    .paragraph h1 {
+        text-align: center;
+        color: white;
+        padding-top: 10%;
+        font-size: 15px;
+        margin-left: -19px;
+    }
+    .container1 {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+    .col-md-12.flip {
+        /* display: flex;
+        flex-direction: column; */
+ 
+    }
+    /* .all-fliper {
+        background: lightgray; */
+        /* height: 100%!important; */
+    }
+
+    }
+
+    /* .d-flex.justify-content-around.section-2 {
+        display: flex;
+        flex-direction: column;
+    }
+    .d-flex.justify-content-around.section-2 {
+        width: 100%;
+        height: 200px;
+    }
+    svg.circle-chart {
+        width: 100px;
+    }
+    .row.section-4.circular-progrees-bar {
+        padding: 0px;
+    }
+
+     */
+
